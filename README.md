@@ -58,6 +58,7 @@ Assets/Dev/Scripts
 ## UML
 
 [دیاگرام](./ReadmeUML/LeaderboardTask.drawio.png)
+<img src="./ReadmeUML/LeaderboardTask.drawio.png" alt="دیاگرام معماری کد" />
 
 ## نحوه اجرا (How to Run)
 
