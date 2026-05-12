@@ -57,11 +57,7 @@ Assets/Dev/Scripts
     
 ## UML
 
-[مشاهده آنلاین دیاگرام](https://drive.google.com/file/d/10uYgksF4Jopfl1jsJDoVQWF41JbpsUV2/view?usp=sharing)
-
-
-
-
+[دیاگرام](./ReadmeUML/LeaderboardTask.drawio.png)
 
 ## نحوه اجرا (How to Run)
 
