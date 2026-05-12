@@ -63,7 +63,7 @@ Assets/Dev/Scripts
 
 برای اجرای صحیح ماژول Leaderboard در محیط Unity، مراحل زیر را دنبال کنید:
 
-1. **صحنه (Scene) اصلی پروژه** (`GamePlay.unity`) را باز کنید.
+1. **صحنه (Scene) اصلی پروژه** (`GamePlay.unity`) را باز کنید.  این صحنه در پوشه  Asset/Design/Scenes قرار دارد. برای دید بهتر aspect ratio را 9:16 تنظیم کنید و یا روی بیلد اندروید بروید.
 2. اطمینان حاصل کنید که اسکریپت **GameInitializer** به یک `GameObject` در صحنه متصل است.
 3. در **Inspector**، فیلدهای مربوط به:
    - `Leaderboard View` (ارجاع به View اصلی Leaderboard)
